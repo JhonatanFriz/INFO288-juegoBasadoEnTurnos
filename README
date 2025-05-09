@@ -1,0 +1,13 @@
+Prueba base de juego
+bash
+iniciar servidor de nombres
+pyro5-ns -n 127.0.0.1 -p 4002
+
+en carpeta server ejecutar
+python main.py 
+
+en carpeta client ejecutar
+python main.py <nombre jugador> <equipo (Rojos o Azules)>
+
+
+de momento probé un jugador por equipo, sigue lógica de turnos, para efectos de prueba al llegar a 20 gana

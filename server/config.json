@@ -1,0 +1,6 @@
+{
+  "tablero_size": 20,
+  "dado_min": 1,
+  "dado_max": 6,
+  "equipos_por_defecto": ["Rojos", "Azules"]
+}
